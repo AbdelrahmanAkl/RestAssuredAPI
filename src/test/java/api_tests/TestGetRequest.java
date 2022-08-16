@@ -1,4 +1,4 @@
-package swagger.UI.Swagger.API.Tests;
+package api_tests;
 
 
 import org.testng.annotations.Test;
